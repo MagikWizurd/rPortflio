@@ -34,7 +34,7 @@ nav ul {
 nav ul li {
     display: inline;
     margin-right: 15px;
-    text-align: center;
+    text-align: left;
 }
 
 nav ul li a {
